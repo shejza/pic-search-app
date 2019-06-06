@@ -13,15 +13,20 @@ class SearchBar extends React.Component {
   render() {
     return (
       <div className="ui segment">
-        <form className="ui form" onSubmit={this.onFormSubmit}>
-          <div className="field">
-            <label>Image Search</label>
-            <input
-              type="text"
-              onChange={e => this.setState({ term: e.target.value })}
-            />
-          </div>
-        </form>
+        <h2 class="ui teal center aligned header">Search Images</h2>
+        <div class="ui right aligned category search">
+          <form onSubmit={this.onFormSubmit}>
+            <div class="ui fluid icon input green">
+              <input
+                placeholder="Search images..."
+                className="prompt"
+                type="text"
+                onChange={e => this.setState({ term: e.target.value })}
+              />
+              <i class="search icon" />
+            </div>
+          </form>
+        </div>
       </div>
     );
   }

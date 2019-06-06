@@ -4,6 +4,7 @@ import unsplash from "../api/usplash";
 import SearchBar from "./SearchBar";
 import usplash from "../api/usplash";
 import ImageList from "./ImageList";
+import "./ImageList.css";
 
 class App extends React.Component {
   state = {

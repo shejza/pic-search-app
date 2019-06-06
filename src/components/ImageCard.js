@@ -20,8 +20,16 @@ class ImageCard extends React.Component {
   render() {
     const { description, urls } = this.props.image;
     return (
-      <div style={{ gridRowEnd: `span ${this.state.spans}` }}>
-        <img ref={this.imageRef} alt={description} src={urls.regular} />
+      <div
+        style={{ gridRowEnd: `span ${this.state.spans}` }}
+        className="grid-hovereffect"
+      >
+        <figure class="hover-effect9">
+          <img ref={this.imageRef} alt={description} src={urls.regular} />
+          <figcaption>
+            <p>{description}</p>
+          </figcaption>
+        </figure>
       </div>
     );
   }
