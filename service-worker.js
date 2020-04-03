@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/shejza/pic-search-app/precache-manifest.f76723afc6c70788f8c4672046e0d26c.js"
+  "/pic-search-app/precache-manifest.279a2d72f1a593b17496ed341ed41745.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/shejza/pic-search-app/index.html", {
+workbox.routing.registerNavigationRoute("/pic-search-app/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

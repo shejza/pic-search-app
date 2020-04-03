@@ -1,13 +1,13 @@
 {
-  "main.css": "/shejza/pic-search-app/static/css/main.b365a9cb.chunk.css",
-  "main.js": "/shejza/pic-search-app/static/js/main.8214e0f4.chunk.js",
-  "main.js.map": "/shejza/pic-search-app/static/js/main.8214e0f4.chunk.js.map",
-  "runtime~main.js": "/shejza/pic-search-app/static/js/runtime~main.9be65f0d.js",
-  "runtime~main.js.map": "/shejza/pic-search-app/static/js/runtime~main.9be65f0d.js.map",
-  "static/js/2.8ab3b65b.chunk.js": "/shejza/pic-search-app/static/js/2.8ab3b65b.chunk.js",
-  "static/js/2.8ab3b65b.chunk.js.map": "/shejza/pic-search-app/static/js/2.8ab3b65b.chunk.js.map",
-  "index.html": "/shejza/pic-search-app/index.html",
-  "precache-manifest.f76723afc6c70788f8c4672046e0d26c.js": "/shejza/pic-search-app/precache-manifest.f76723afc6c70788f8c4672046e0d26c.js",
-  "service-worker.js": "/shejza/pic-search-app/service-worker.js",
-  "static/css/main.b365a9cb.chunk.css.map": "/shejza/pic-search-app/static/css/main.b365a9cb.chunk.css.map"
+  "main.css": "/pic-search-app/static/css/main.b365a9cb.chunk.css",
+  "main.js": "/pic-search-app/static/js/main.8214e0f4.chunk.js",
+  "main.js.map": "/pic-search-app/static/js/main.8214e0f4.chunk.js.map",
+  "runtime~main.js": "/pic-search-app/static/js/runtime~main.cee29867.js",
+  "runtime~main.js.map": "/pic-search-app/static/js/runtime~main.cee29867.js.map",
+  "static/js/2.8ab3b65b.chunk.js": "/pic-search-app/static/js/2.8ab3b65b.chunk.js",
+  "static/js/2.8ab3b65b.chunk.js.map": "/pic-search-app/static/js/2.8ab3b65b.chunk.js.map",
+  "index.html": "/pic-search-app/index.html",
+  "precache-manifest.279a2d72f1a593b17496ed341ed41745.js": "/pic-search-app/precache-manifest.279a2d72f1a593b17496ed341ed41745.js",
+  "service-worker.js": "/pic-search-app/service-worker.js",
+  "static/css/main.b365a9cb.chunk.css.map": "/pic-search-app/static/css/main.b365a9cb.chunk.css.map"
 }
